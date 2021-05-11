@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\java",
+    "\\src\\java\\controller",
+    "\\web",
+    "\\web\\view",
+    "\\web\\view\\client",
+    "\\web\\view\\client\\view"
+  ],
+  "SelectedNode": "\\src\\java\\controller\\RegisterController.java",
+  "PreviewInSolutionExplorer": false
+}
